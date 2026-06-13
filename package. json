@@ -1,0 +1,12 @@
+{
+  "name": "express-assignment-m8",
+  "version": "1.0.0",
+  "description": "Simple Express API for Module 8",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
